@@ -1,0 +1,10 @@
+.img-fluid {
+	display: block;
+	margin: 0 auto;
+	height: 400px;
+	width: auto;
+}
+
+h1, h3 {
+	text-align: center;
+}
